@@ -16,10 +16,3 @@ module.exports = function repeater(str,
   }
   return result;
 };
-  
-
-
-// let additionWithSeparater = '';
-// addition ? additionWithSeparater = `${addition}${additionSeparator}`.repeat(additionRepeatTimes) : addWithSeparater = '';
-// let result = (str + additionWithSeparater + separator).repeat(repeatTimes);
-// return result.slice(0, result.length - 1);
